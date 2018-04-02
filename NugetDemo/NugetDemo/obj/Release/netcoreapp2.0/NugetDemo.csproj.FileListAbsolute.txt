@@ -1,0 +1,8 @@
+D:\Projects\NugetDemo\NugetDemo\bin\Release\netcoreapp2.0\NugetDemo.deps.json
+D:\Projects\NugetDemo\NugetDemo\bin\Release\netcoreapp2.0\NugetDemo.dll
+D:\Projects\NugetDemo\NugetDemo\bin\Release\netcoreapp2.0\NugetDemo.pdb
+D:\Projects\NugetDemo\NugetDemo\obj\Release\netcoreapp2.0\NugetDemo.csproj.CoreCompileInputs.cache
+D:\Projects\NugetDemo\NugetDemo\obj\Release\netcoreapp2.0\NugetDemo.AssemblyInfoInputs.cache
+D:\Projects\NugetDemo\NugetDemo\obj\Release\netcoreapp2.0\NugetDemo.AssemblyInfo.cs
+D:\Projects\NugetDemo\NugetDemo\obj\Release\netcoreapp2.0\NugetDemo.dll
+D:\Projects\NugetDemo\NugetDemo\obj\Release\netcoreapp2.0\NugetDemo.pdb

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <PackageId>Mihira.NugetDemo</PackageId>
+    <Authors>Mihira Bandara</Authors>
+    <Company>Mihira Bandara</Company>
+    <Product>IModelMapper Interface</Product>
+    <Description>This is  reuasable interface to map the dtos and models</Description>
+    <Copyright>@2018 Mihira Bandara</Copyright>
+    <PackageLicenseUrl>https://github.com/MihiraBandara/Mapper</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/MihiraBandara/Mapper</PackageProjectUrl>
+    <PackageIconUrl>https://github.com/MihiraBandara/Mapper/blob/master/Mihira.png?raw=true</PackageIconUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
